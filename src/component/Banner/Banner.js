@@ -7,9 +7,9 @@ const Banner = () => {
 
         <div class="banner-area">
 
-            <div class="position-absolute top-50 start-50 translate-middle">
+            <div class="position-absolute top-50 start-50 translate-middle w-50">
 
-                <div class="card banner-card text-white" >
+                <div class="card banner-card text-white "  >
 
                     <div class="card-body">
                         <h1 class="card-title banner-card-title"><span class="banner-card-title-span">Doom</span> Contruction</h1>
