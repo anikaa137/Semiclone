@@ -1,0 +1,5 @@
+.service{
+    clip-path: polygon(0 9%, 100% 0, 100% 100%, 0 90%);
+    background: linear-gradient( to right, rgba(220, 179, 89,0.900), rgba(186, 148, 148, 0.616),rgba(163, 134, 243, 0.384),rgba(111, 0, 255, 0.280) )
+
+}

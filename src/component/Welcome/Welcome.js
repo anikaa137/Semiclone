@@ -1,6 +1,7 @@
 import React from 'react'
 import './Welcome.css'
 import { BsFillCaretRightFill} from "react-icons/bs";
+import { FaArrowAltCircleRight } from "react-icons/fa";
 
 function componentName() {
     return (
@@ -13,15 +14,15 @@ function componentName() {
                 </div>
             <div class="row g-5">
 
-            <div className="col-md-4">
+            <div className="col-md-4 ">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium assumenda nobis placeat incidunt impedit suscipit tempora quae ipsa aut, tenetur fugit tempore explicabo unde ea? Minima vitae numquam ipsam dignissimos!
                    </p>
             </div>
-            <div className="col-md-4">
+            <div className="col-md-4 ">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium assumenda nobis placeat incidunt impedit suscipit tempora quae ipsa aut, tenetur fugit tempore explicabo unde ea? Minima vitae numquam ipsam dignissimos!
                    </p>
             </div>
-            <div className="col-md-4">
+            <div className="col-md-4  ">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium assumenda nobis placeat incidunt impedit suscipit tempora quae ipsa aut, tenetur fugit tempore explicabo unde ea? Minima vitae numquam ipsam dignissimos!
                    </p>
                 </div>

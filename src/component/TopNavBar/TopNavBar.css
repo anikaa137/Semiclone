@@ -8,6 +8,7 @@
 }
 .call-us{
     background-color: rgba(108, 96, 248);
+    --bs-gutter-x: 0;
 }
 
 li a{
@@ -25,8 +26,8 @@ ul {
 .social-icon li a{
     float: right;
 }
-img, svg, video, canvas, audio, iframe, embed, object {
-      display: inline ;
+ svg {
+       display: inline ;
 
 }
 @media only screen and (min-width: 335px) {
@@ -46,6 +47,6 @@ img, svg, video, canvas, audio, iframe, embed, object {
     }
   }
 
-  .row{
+  /* .row{
           --bs-gutter-x: 0;
-  }
+  }   */

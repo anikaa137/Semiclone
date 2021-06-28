@@ -9,8 +9,8 @@ const TopNavBar = () => {
     return (
 		<div className="header-top">
 			<div className="row">
-				<div className="col-lg-10 col-md-9 col-sm-12 contact">
-					<div className="row">
+				<div className="col-md-10 col-sm-12 contact">
+					<div className="row g-0">
 						<div className="col-md-6 col-sm-12 address">
 							<ul>
 								<li><a href="#" class="golocation"><span><GoLocation/></span> Grand Road, UK </a></li>
@@ -29,8 +29,8 @@ const TopNavBar = () => {
 						</div>
 					</div>
 				</div>
-				  <div className="col-lg-2 col-md-3 gx-0 col-sm-12 call-us">
-					<ul><li><a href=""><FiPhoneCall/> +45 72 398455 53</a></li></ul>
+				  <div className=" col-md-2 g-0 col-sm-12 call-us">
+				 <a href=""><FiPhoneCall/> +45 72 398455 53</a>
 				</div>
 			</div>
 		</div>
