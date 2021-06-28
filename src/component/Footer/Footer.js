@@ -4,9 +4,11 @@ import './Footer.css'
 
 function componentName() {
     return (
+        <div class="footer ">
+        <div class="pt-5 mt-5">
 
 <div class="container bg-grey-lighter p-8 pt-5">
-    <div class="sm:flex mb-4">
+    <div class="sm:flex mb-4 pt-5 mt-5">
   <div class="sm:w-1/4 h-auto">
       <div class="text-orange mb-2">Orange</div>
       <ul class="list-reset leading-normal">
@@ -65,6 +67,8 @@ function componentName() {
 
 </div>
 </div>
+            </div>
+            </div>
     )
 }
 

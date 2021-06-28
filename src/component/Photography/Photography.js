@@ -3,7 +3,7 @@ import './Photography.css'
 
 function componentName() {
     return (
-        <div class="container w-75">
+        <div class="container w-75 mt-5 pt-5">
             <div class="row ">
 
                 <div class="col-md-7">
