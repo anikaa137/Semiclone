@@ -7,7 +7,7 @@ const Banner = () => {
 
         <div class="banner-area">
 
-            <div  class="  d-flex align-items-center justify-content-center" style={{height: "425px"}}>
+            <div  class="  d-flex align-items-center justify-content-center" style={{height: "100%"}}>
 
                 <div class="card banner-card text-white "  >
 
