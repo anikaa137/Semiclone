@@ -58,7 +58,8 @@ function componentName() {
         <p class="text-grey-darker leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, consectetur. </p>
         <div class="mt-4 flex">
             <input type="text" class="p-2 border border-grey-light round text-grey-dark text-sm h-auto" placeholder="Your email address"/>
-            <button class="bg-orange text-white rounded-sm h-auto text-xs p-3">Subscribe</button>
+
+                        <button type="button" class="btn btn-dark">Subscribe</button>
         </div>
     </div>
 
